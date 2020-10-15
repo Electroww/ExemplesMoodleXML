@@ -2,14 +2,12 @@
 <quiz>
 <question type="category">
     <category>
-     <text>salut </text>
-        <text>$course$/MultipleChoiceQuestion</text>
-        <text>REM IS BEST WAIFU</text>
+        <text>test</text>
     </category>
 </question>
 <question type="category">
     <category>
-        <text>$course$/PairMatchingQuestion</text>
+        <text>test</text>
     </category>
 </question>
 </quiz>
