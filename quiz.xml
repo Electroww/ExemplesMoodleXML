@@ -2,6 +2,7 @@
 <quiz>
 <question type="category">
     <category>
+    salut
         <text>$course$/MultipleChoiceQuestion</text>
     </category>
 </question>
